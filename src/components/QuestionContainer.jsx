@@ -6,7 +6,6 @@ const QuestionContainer = ({ question, ChangeScene }) => {
 
   const handleInputChange = (event) => {
     setName(event.target.value);
-    console.log(name)
   };
 
 
