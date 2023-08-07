@@ -1,0 +1,520 @@
+[{
+        "dialogue": "Você se mudou recentemente para uma nova cidade.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "museu.jpeg"
+    },
+    {
+        "dialogue": "Os dias passaram rapidamente, e o início das aulas está chegando.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "museu.jpeg"
+    },
+    {
+        "dialogue": "Durante um passeio pela vizinhança, algo chama sua atenção...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "museu.jpeg"
+    },
+    {
+        "dialogue": "Você vê alguém desconhecido andando de bicicleta pela rua. Não consegue ver o rosto, mas a energia dele é contagiante.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "togs-bike.jpg"
+    },
+    {
+        "dialogue": "Ele passa como um raio, a toda velocidade.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "togs-bike.jpg"
+    },
+    {
+        "dialogue": "Tinha algo nele que te deixou entrigada.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "togs-bike.jpg"
+    },
+    {
+        "dialogue": "Mas voce não sabe o que foi.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "togs-bike.jpg"
+    },
+    {
+        "dialogue": "Você ignora isso e vai para casa, se preparar para amanhã.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "togs-bike.jpg"
+    },
+    {
+        "dialogue": "As aulas começam e você se encontra na nova escola. Tanta coisa é nova e desconhecida.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Você está curioso para saber quem são seus colegas de classe. Será que você conhece alguém?",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "À medida que entra na escola, seu coração dispara. No meio do corredor, você vê aquele mesmo estilo do cara bicicleta...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "E então, você o ouve ser chamado pelo nome: 'Togs'.",
+        "character": "narrador",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Agora você sabe quem ele é...",
+        "character": "narrador",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Togs...",
+        "character": "narrador",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Você vai fazer de tudo para se aproximar dele...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Se acalmando um pouco você vai para sua sala.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Você se senta em uma carteira.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "E olhando para porta você vê...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Togs entrando na sala.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Você esta visivelmente nervosa.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Ele está vindo em sua direção...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Opa, você é nova aqui né.",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Bem, pelo menos nunca te vi aqui.",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Você da um sorriso nervoso.",
+        "character": "narrador",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Qual seu nome?",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg",
+        "question": "Qual seu nome?"
+    },
+    {
+        "dialogue": "Que nome diferente.",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Mas é muito bacana.",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "É um prazer, ",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "Espero que sejamos muito amigos.",
+        "character": "Togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-class.jpg"
+    },
+    {
+        "dialogue": "À medida que os dias passam, você encontra oportunidades para se aproximar ainda mais de Togs.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Vocês formam um grupo para um projeto escolar, e isso permite que vocês passem mais tempo juntos.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Em uma tarde ensolarada, Togs te entrega um papel com um sorriso malicioso.",
+        "character": "togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Ei, aqui está meu número de telefone. Vamos manter contato!",
+        "character": "togs",
+        "characterImg": "togs-escola.png",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Além do telefone dele, tambem havia um recado:",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "'Vamos nos encontrar no café no sabado?'",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Seu coração acelera enquanto você aceita o papel. É um passo a mais na direção certa.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "Chega o dia do esperado encontro com Togs.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Você se encontram em um café aconchegante.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Ele chega...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Ele se arrumou todo para te ver...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Ele chega e um sorriso brilha no rosto de Togs.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "...",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Vocês se cumprimentam com um 'Oi' tímido, mas o nervosismo é palpável.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Os olhares se encontram e, por um momento, o mundo ao redor parece desaparecer.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Depois de uma breve pausa nervosa, vocês escolhem um lugar para se sentar.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "É um lugar aconchegante, né?",
+        "character": "Togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Ele comenta, tentando dissipar a tensão.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Gosto de vir aqui para relaxar.",
+        "character": "togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "A conversa começa um pouco trêmula, mas à medida que os minutos passam, vocês se sentem mais à vontade um com o outro.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Agora ele esta falando sobre um jogo sobre carros e futebol.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Mas você se perdeu no assunto e só esta adimirando ele.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Ai fiz um walldrag e-",
+        "character": "Togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Você esta prestando atenção? Acho que me empolguei falando.",
+        "character": "Togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Um silecio infinito se espalha.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Segurando o riso, vocês ficam vermelhos. E logo começam a rir.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "A conversa flui facilmente, e vocês compartilham histórias e sonhos.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "As coisas estão ficando sérias entre vocês.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+
+    {
+        "dialogue": "Togs olha para você, um brilho nos olhos que revela algo especial.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "'Sabe, tem algo que eu não te contei ainda...' Togs começa, um sorriso travesso no rosto.",
+        "character": "togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Você olha curioso, esperando que Togs continue.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Eu faço parte do clube de teatro da escola. Adoro atuar e estar no palco.",
+        "character": "togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Você comenta que sempre foi muito fã de teatros.",
+        "character": "jogador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Na verdade, estamos ensaiando uma peça para um evento escolar. E eu queria te perguntar...",
+        "character": "togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Você toparia ser minha dupla de atuação? Eu acho que faríamos um ótimo casal na peça.",
+        "character": "togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Seu coração dispara, mal acreditando no que está ouvindo.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Você topa sem pensar duas vezes",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "O sorriso de Togs é um misto de alívio e alegria. 'Então está combinado! Vamos ensaiar juntos e dar o nosso melhor.'",
+        "character": "togs",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Nesse momento, a conexão entre vocês parece mais forte do que nunca.",
+        "character": "narrador",
+        "characterImg": "togs-encontro.png",
+        "bg": "bg-cafe.png"
+    },
+    {
+        "dialogue": "Alguns dias de arduo treino passam.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "E o dia chegou...",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-school.jpg"
+    },
+    {
+        "dialogue": "A peça é uma história de amor, e vocês se sentem como se a vida estivesse imitando a arte.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+
+    {
+        "dialogue": "Nos bastidores, antes de uma apresentação, Togs segura sua mão e diz:",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Eu estou tão feliz que estamos fazendo isso juntos.",
+        "character": "togs",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Você sorri, sentindo que encontrou algo verdadeiramente especial.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "A cortina se abre, e o palco se ilumina, revelando um cenário encantador.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Você e Togs estão no centro do palco, como o casal principal da peça.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "A história de amor se desenrola, enquanto vocês encenam momentos de risos, conflitos e reencontros.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Cada olhar, cada gesto, é carregado de emoção e verdade.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Chega o clímax da peça, onde seus personagens finalmente se abraçam, selando seu amor.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "A plateia irrompe em aplausos, enquanto você e Togs se seguram, emocionados.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "O abraço no palco é um reflexo do que vocês compartilham na vida real.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "À medida que as cortinas se fecham e a peça termina, a história de vocês também se completa.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Os aplausos continuam, ecoando o amor e a jornada que vocês trilharam juntos.",
+        "character": "narrador",
+        "characterImg": "togs-peca.png",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "E assim, a história de vocês encontra seu final, mas a lembrança do amor que compartilharam permanecerá para sempre.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "bg-theater.png"
+    },
+    {
+        "dialogue": "Obrigado por embarcar nesta emocionante jornada. Fim.",
+        "character": "narrador",
+        "characterImg": "",
+        "bg": "togs-fim.jpg"
+    }
+
+]

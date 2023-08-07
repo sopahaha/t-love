@@ -1,0 +1,31 @@
+@use '../_variables'
+    
+.text-container
+    background-color: transparentize(variables.$primary-pink, 0.35) 
+    position: fixed
+    bottom: 0
+    left: 0
+    right: 0
+    height: 8rem
+    margin: .3rem
+    border: 1px solid black
+
+    &-name
+        border: 1px solid black
+        position: absolute
+        top: -3.5rem
+        left: -1px
+        padding: .5rem 1rem
+        background-color: transparentize(variables.$primary-pink, 0.35) 
+        color: variables.$font-color
+
+
+    &-content
+        color: variables.$font-color
+        max-width: 1200px
+        font-size: 1.4rem
+        margin: 0 auto
+        padding: 0.8rem 2rem
+    
+.ti-cursor 
+    display: none!important
